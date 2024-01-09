@@ -1,11 +1,13 @@
-body{
+body {
     height: 100vh;
-    background-image: linear-gradient(to top right,hsl(229, 83%, 60%), hsl(263, 87%, 35%),hsl(276, 91%, 38%) )
+    background-image: linear-gradient(to top right, hsl(229, 83%, 60%), hsl(263, 87%, 35%), hsl(276, 91%, 38%))
 }
-img{
+
+img {
     width: 100%;
 }
 
-#white{
+#white {
     color: white;
 }
+
